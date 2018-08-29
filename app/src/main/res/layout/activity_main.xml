@@ -14,7 +14,9 @@
     android:background="#3F51B5"
     app:itemTextColor="#FFFF"
     app:itemIconTint="#FFFF"
-
+    app:menu="@menu/my_menu"
+    android:layout_gravity="start|left"
+    app:headerLayout="@layout/my_header"
     >
 
 </android.support.design.widget.NavigationView>
