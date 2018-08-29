@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuInbox"
+        android:icon="@drawable/icon_inbox"
+        android:title="Inbox" />
+    <item
+        android:id="@+id/menuSent"
+        android:icon="@drawable/icon_sent"
+        android:title="Sent" />
+    <item
+        android:id="@+id/menuDrafts"
+        android:icon="@drawable/icon_draft"
+        android:title="Drafts" />
+    <item
+        android:id="@+id/menuSpam"
+        android:icon="@drawable/icon_spam"
+        android:title="Spam" />
+</menu>
